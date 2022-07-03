@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>real-time payments &#8211; Banking, Loans, Credit Cards | iBank &amp; Co.</title>
+	<atom:link href="/tag/real-time-payments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 09 Apr 2021 14:43:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>Can Payments Data Help Bridge the Tax Gap?</title>
+		<link>/can-payments-data-help-bridge-the-tax-gap/</link>
+					<comments>/can-payments-data-help-bridge-the-tax-gap/#respond</comments>
+		
+		<dc:creator><![CDATA[wesbowen]]></dc:creator>
+		<pubDate>Fri, 09 Apr 2021 14:43:43 +0000</pubDate>
+				<category><![CDATA[Payments]]></category>
+		<category><![CDATA[open banking]]></category>
+		<category><![CDATA[real-time payments]]></category>
+		<guid isPermaLink="false">https://theme-dev.cmsmasters.net/medical/?p=1317</guid>
+
+					<description><![CDATA[As the way we exchange value changes, taxation faces a pivotal moment. Historically speaking, taxes have been taxing. But new developments in the payments ecosystem - Open Banking, ISO 20022 - are about to change all that.  ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1317" class="elementor elementor-1317">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-90ea007 elementor-section-boxed elementor-section-height-default elementor-section-height-default cmsmasters-block-default" data-id="90ea007" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-dc1a014" data-id="dc1a014" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b1bdb5f cmsmasters-block-default cmsmasters-sticky-default elementor-widget elementor-widget-text-editor" data-id="b1bdb5f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.6 - 15-06-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p><p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment.</p>						</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-7fd47b8 elementor-section-boxed elementor-section-height-default elementor-section-height-default cmsmasters-block-default" data-id="7fd47b8" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-710d8ad" data-id="710d8ad" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4fbcaa4 cmsmasters-effect cmsmasters-effect-type-transform cmsmasters-block-default cmsmasters-sticky-default elementor-invisible elementor-widget elementor-widget-text-editor" data-id="4fbcaa4" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>You can divide the payment of any tax into three separate events: the taxable event itself, the reporting of the event to the tax authority and any other relevant parties, and finally the payment of the tax.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-127d52f cmsmasters-block-default cmsmasters-sticky-default elementor-widget elementor-widget-heading" data-id="127d52f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.6 - 15-06-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">A Brief History of Taxation </h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0f99a4d cmsmasters-block-default cmsmasters-sticky-default elementor-widget elementor-widget-text-editor" data-id="0f99a4d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. A wonderful serenity has taken possession of my entire soul.</p><p>I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-17ace3b cmsmasters-block-default cmsmasters-sticky-default elementor-widget elementor-widget-heading" data-id="17ace3b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Payments Innovation Goes Mainstream </h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1543343 cmsmasters-block-default cmsmasters-sticky-default elementor-widget elementor-widget-text-editor" data-id="1543343" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p> I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence. A wonderful serenity has taken possession of my entire soul.</p><p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. A wonderful serenity has taken possession of my entire soul.</p><p>I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2099b4b cmsmasters-block-default cmsmasters-sticky-default elementor-widget elementor-widget-cmsmasters-gallery" data-id="2099b4b" data-element_type="widget" data-settings="{&quot;gallery_layout&quot;:&quot;masonry&quot;,&quot;columns&quot;:3,&quot;columns_tablet&quot;:3,&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:20,&quot;sizes&quot;:[]},&quot;link_to&quot;:&quot;file&quot;,&quot;columns_mobile&quot;:1,&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;lazyload&quot;:&quot;yes&quot;}" data-widget_type="cmsmasters-gallery.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-widget-cmsmasters-gallery__container"><a class="e-gallery-item elementor-widget-cmsmasters-gallery__item" data-elementor-lightbox-slideshow="2099b4b" href="/wp-content/uploads/2021/11/open-post-16-1.jpg">
+							<div alt="" class="e-gallery-image elementor-widget-cmsmasters-gallery__item-image" data-thumbnail="/wp-content/uploads/2021/11/open-post-16-1.jpg" data-width="390" data-height="530"></div></a><a class="e-gallery-item elementor-widget-cmsmasters-gallery__item" data-elementor-lightbox-slideshow="2099b4b" href="/wp-content/uploads/2021/11/open-post-4-1.jpg">
+							<div alt="" class="e-gallery-image elementor-widget-cmsmasters-gallery__item-image" data-thumbnail="/wp-content/uploads/2021/11/open-post-4-1.jpg" data-width="800" data-height="420"></div></a><a class="e-gallery-item elementor-widget-cmsmasters-gallery__item" data-elementor-lightbox-slideshow="2099b4b" href="/wp-content/uploads/2021/11/open-post-9-1.jpg">
+							<div alt="" class="e-gallery-image elementor-widget-cmsmasters-gallery__item-image" data-thumbnail="/wp-content/uploads/2021/11/open-post-9-1.jpg" data-width="390" data-height="530"></div></a><a class="e-gallery-item elementor-widget-cmsmasters-gallery__item" data-elementor-lightbox-slideshow="2099b4b" href="/wp-content/uploads/2021/11/open-post-11-1.jpg">
+							<div alt="" class="e-gallery-image elementor-widget-cmsmasters-gallery__item-image" data-thumbnail="/wp-content/uploads/2021/11/open-post-11-1.jpg" data-width="390" data-height="530"></div></a><a class="e-gallery-item elementor-widget-cmsmasters-gallery__item" data-elementor-lightbox-slideshow="2099b4b" href="/wp-content/uploads/2021/11/open-post-3-1.jpg">
+							<div alt="" class="e-gallery-image elementor-widget-cmsmasters-gallery__item-image" data-thumbnail="/wp-content/uploads/2021/11/open-post-3-1.jpg" data-width="800" data-height="420"></div></a><a class="e-gallery-item elementor-widget-cmsmasters-gallery__item" data-elementor-lightbox-slideshow="2099b4b" href="/wp-content/uploads/2021/11/open-post-1-1.jpg">
+							<div alt="" class="e-gallery-image elementor-widget-cmsmasters-gallery__item-image" data-thumbnail="/wp-content/uploads/2021/11/open-post-1-1.jpg" data-width="800" data-height="420"></div></a></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1157c7a cmsmasters-block-default cmsmasters-sticky-default elementor-widget elementor-widget-heading" data-id="1157c7a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">1. Split payments  </h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8ac62a7 cmsmasters-block-default cmsmasters-sticky-default elementor-widget elementor-widget-text-editor" data-id="8ac62a7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p> I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. A wonderful serenity has taken possession of my entire soul.</p><p>I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now. When, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2f5efee cmsmasters-block-default cmsmasters-sticky-default elementor-widget elementor-widget-cmsmasters-pinterest" data-id="2f5efee" data-element_type="widget" data-widget_type="cmsmasters-pinterest.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-widget-cmsmasters-pinterest__wrapper" style="min-height: 1px"><a id="2f5efee" href="https://www.pinterest.ru/pin/568086940499573555/" data-pin-do="embedPin" data-pin-width="medium" data-pin-terse="true"></a></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f1b2b49 cmsmasters-block-default cmsmasters-sticky-default elementor-widget elementor-widget-text-editor" data-id="f1b2b49" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence. A wonderful serenity has taken possession of my entire soul.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-81b5b22 cmsmasters-block-default cmsmasters-sticky-default elementor-widget elementor-widget-testimonial" data-id="81b5b22" data-element_type="widget" data-widget_type="testimonial.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.6 - 15-06-2022 */
+.elementor-testimonial-wrapper{overflow:hidden;text-align:center}.elementor-testimonial-wrapper .elementor-testimonial-content{font-size:1.3em;margin-bottom:20px}.elementor-testimonial-wrapper .elementor-testimonial-name{line-height:1.5;display:block}.elementor-testimonial-wrapper .elementor-testimonial-job{font-size:.85em;display:block}.elementor-testimonial-wrapper .elementor-testimonial-meta{width:100%;line-height:1}.elementor-testimonial-wrapper .elementor-testimonial-meta-inner{display:inline-block}.elementor-testimonial-wrapper .elementor-testimonial-meta .elementor-testimonial-details,.elementor-testimonial-wrapper .elementor-testimonial-meta .elementor-testimonial-image{display:table-cell;vertical-align:middle}.elementor-testimonial-wrapper .elementor-testimonial-meta .elementor-testimonial-image img{width:60px;height:60px;border-radius:50%;-o-object-fit:cover;object-fit:cover;max-width:none}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-image{padding-right:15px}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-aside .elementor-testimonial-details{text-align:left}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-details,.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{display:block}.elementor-testimonial-wrapper .elementor-testimonial-meta.elementor-testimonial-image-position-top .elementor-testimonial-image{margin-bottom:20px}</style>		<div class="elementor-testimonial-wrapper">
+							<div class="elementor-testimonial-content">In the last year, the steady beat of payments change has started to feel like a drumroll. The pace of both innovation and investment in payments have radically accelerated.</div>
+			
+						<div class="elementor-testimonial-meta">
+				<div class="elementor-testimonial-meta-inner">
+					
+										<div class="elementor-testimonial-details">
+														<div class="elementor-testimonial-name">Dr. Elisha Phelan</div>
+																			</div>
+									</div>
+			</div>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-09d26c4 cmsmasters-block-default cmsmasters-sticky-default elementor-widget elementor-widget-text-editor" data-id="09d26c4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend.</p><p>I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents. I should be incapable of drawing a single stroke at the present moment; and yet I feel that I never was a greater artist than now.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-195119b cmsmasters-block-default cmsmasters-sticky-default elementor-widget elementor-widget-heading" data-id="195119b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Quiz
+</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-27fb45f cmsmasters-block-default cmsmasters-sticky-default elementor-widget elementor-widget-text-editor" data-id="27fb45f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Please complete all questions. Mark the best answer from the choices given.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-24bbd9b cmsmasters-block-default cmsmasters-sticky-default elementor-widget elementor-widget-text-editor" data-id="24bbd9b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+													</div>
+				</div>
+				<div class="elementor-element elementor-element-36e4330 cmsmasters-block-default cmsmasters-sticky-default elementor-widget elementor-widget-heading" data-id="36e4330" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">2. Richer data </h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0298883 cmsmasters-block-default cmsmasters-sticky-default elementor-widget elementor-widget-text-editor" data-id="0298883" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents.						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/can-payments-data-help-bridge-the-tax-gap/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
